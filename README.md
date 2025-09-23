@@ -5,7 +5,7 @@ originally created by Shane Woolcock and Steven Revill
 
 This version includes modifications for CerberusX compatibility. 
 
-An Open Source Framework that includes extra functions and APIs for the CerberusX language. 
+An Open Source Framework that includes extra functions and APIs for the CerberusX language. <br>
 https://cerberus-x.com/
 
 Original copyright retained by the original authors.
